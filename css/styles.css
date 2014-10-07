@@ -1,4 +1,12 @@
 /* Your Website Styles */
+h1 {
+	color: #30914F;
+	font-family: 'Lobster', cursive;
+}
+
+body {
+	background: url(../img/bg.png);
+}
 
 
 /* Show Grid */
